@@ -3,7 +3,7 @@ Track LAN device online/offline status with ping commands, and update SmartThing
 
 ## Pre-requisites
 - SmartThings Edge-enabled Hub
-- SmartThings Edge LAN Presence Device Driver:  https://bestow-regional.api.smartthings.com/invite/Q1jP7BqnNNlL
+- SmartThings Edge LAN Presence Device Driver:  [https://bestow-regional.api.smartthings.com/invite/Q1jP7BqnNNlL](https://api.smartthings.com/invitation-web/accept?id=cc2197b9-2dce-4d88-b6a1-2d198a0dfdef)
 - Edge Forwarding Bridge Server:  https://github.com/toddaustin07/edgebridge
 - Python 3.7 or later (Linux, Windows, Mac)
 
